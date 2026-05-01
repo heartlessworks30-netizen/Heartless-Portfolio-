@@ -3,7 +3,7 @@ export default function Home() {
     <div style={{ backgroundColor: "#0a0a0a", color: "white", minHeight: "100vh", padding: "20px", fontFamily: "Arial" }}>
       
       <div style={{ textAlign: "center", marginBottom: "40px" }}>
-        <h1 style={{ fontSize: "40px", marginBottom: "10px" }}>Ashu Edits</h1>
+        <h1 style={{ fontSize: "40px", marginBottom: "10px" }}>HEARTLESS</h1>
         <p style={{ color: "gray" }}>
           Video Editor | Reels & YouTube | Storytelling & Retention Focused
         </p>
